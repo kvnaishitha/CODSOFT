@@ -1,0 +1,40 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #221096;
+    color: rgb(255, 7, 7);
+    text-align: center;
+    padding: 1rem 0;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(168, 22, 22);
+}
+
+section {
+    padding: 2rem;
+}
+
+footer {
+    text-align: center;
+    background-color: #28ce54;
+    color: rgba(103, 5, 5, 0.791);
+    padding: 1rem 0;
+}
